@@ -2,6 +2,14 @@
 
 > A manufacturing data-analysis application for screening localized contamination patterns and detecting changes in spatial reject behaviour.
 
+## Manufacturing Dashboard
+
+A manufacturing dashboard turning data into meaningful insights to identify suspicious contamination patterns, detect changes in defect behaviour, and help engineers focus their investigations where they matter most.
+
+![Manufacturing dashboard demo](images/manufacturing-dashboard-demo.gif)
+
+The dashboard source code and underlying manufacturing data are proprietary and are not included in this repository. The animation illustrates the dashboard using fictional data; it is not a live screen recording.
+
 ## Why This Tool?
 
 Particle contamination is a yield concern for the MEMS device investigated in this project. The packaging process has strict requirements regarding particle presence, so contamination can result in rejected units and contribute to yield loss. Understanding how these rejects occur and where they are distributed is therefore important for engineering investigation.
@@ -344,9 +352,3 @@ flowchart TD
     class G method2;
     class J output;
 ```
-<p align="center">
-  <img src="images/flex-app.png" alt="Flex ui" width="1000">
-  <br>
-  <sub><i>The application integrates the workflow into a single graphical interface, allowing production reject patterns to be analyzed without manually executing individual Python scripts.</i></sub>
-</p>
-
