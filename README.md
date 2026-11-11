@@ -5,7 +5,7 @@ A manufacturing dashboard turning data into meaningful insights to identify susp
 
 ![Manufacturing dashboard demo](images/manufacturing-dashboard-demo.gif)
 
-The dashboard source code and underlying manufacturing data are proprietary and are not included in this repository. The animation illustrates the dashboard using fictional data; it is not a live screen recording.
+The animation illustrates the dashboard using fictional data; it is not a live screen recording.
 
 ## Why This Tool?
 
