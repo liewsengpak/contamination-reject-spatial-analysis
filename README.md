@@ -1,7 +1,4 @@
 # Contamination Reject Pattern Analysis Tool
-
-> A manufacturing data-analysis application for screening localized contamination patterns and detecting changes in spatial reject behaviour.
-
 ## Manufacturing Dashboard
 
 A manufacturing dashboard turning data into meaningful insights to identify suspicious contamination patterns, detect changes in defect behaviour, and help engineers focus their investigations where they matter most.
